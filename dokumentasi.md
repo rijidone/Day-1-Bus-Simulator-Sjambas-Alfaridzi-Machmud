@@ -135,8 +135,6 @@ Proyek praktik hari ini adalah membuat aplikasi web sederhana **Student Task Pla
 
 ## 3. Pendapat Pribadi tentang Day 1 Proyek Workshop
 
-> *Draf, silakan sesuaikan dengan pengalaman dan kesanmu sendiri.*
-
 Menurut saya, Day 1 Proyek Workshop sangat bermanfaat sebagai pengantar bagi mahasiswa baru di bidang teknologi informasi. Materi Day 1 Proyek Workshop menggabungkan dua hal yang saling berkaitan: menggunakan AI untuk membangun sesuatu, lalu menggunakan Git dan GitHub untuk mengelola hasilnya. Dari Day 1 Proyek Workshop saya jadi paham bahwa AI akan jauh lebih berguna bila diberi prompt yang jelas dan terstruktur, dan bahwa hasil kerja perlu dicatat dengan version control agar perubahannya rapih dan bisa dilacak.
 
 Bagian setup, yaitu instalasi Git, konfigurasi identitas, dan pembuatan SSH key, cukup menantang bagi pemula, tetapi penting karena menjadi fondasi bagi pekerjaan selanjutnya. Praktik membuat Student Task Planner membuat materi terasa nyata, karena kami langsung mencoba alur dari menulis prompt sampai push ke GitHub. Ke depan, saya ingin lebih banyak latihan soal branch dan pull request supaya siap berkolaborasi dalam tim.
